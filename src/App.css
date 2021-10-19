@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+    background-color: honeydew;
+    font-size: 25px;
+}
+
+.todo-text {
+    color: black;
+}
+
+.delete {
+    background-color: #f44336;
+    border-radius: 12px;
+}
+
+button {
+    background-color: #4caf50;
+}
+
+.submit {
+    background-color: #4caf50;
+    border-radius: 12px;
+}
+
+.edit {
+    background-color: #008cba;
+    border-radius: 12px;
+}
+
+.inline {
+    display: inline-block;
+}
