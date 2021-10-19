@@ -24,11 +24,11 @@ function TodoList() {
   };
 
   return (
-    <>
+    <div className="App">
       <h1>ToDo List</h1>
       <TodoForm onSubmit={addTodo} />
       <Todo todos={todos} removeTodo={removeTodo} updateTodo={updateTodo} />
-    </>
+    </div>
   );
 }
 

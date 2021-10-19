@@ -30,3 +30,7 @@ button {
 .inline {
     display: inline-block;
 }
+
+.width {
+    width: 200px;
+}
